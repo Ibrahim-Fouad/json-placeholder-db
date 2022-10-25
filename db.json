@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "title": "Iusto aut et laborum.",
@@ -836,3 +837,5 @@
     }
   }
 ]
+
+}
